@@ -17,7 +17,7 @@ public class Variables {
      *      --> datatype variablename = value;
      *      --> String name = "Johnson";
      */
-
+    
     public static void main(String[] args) {
         String name = "Johnson";
         int myNumber = 29;
